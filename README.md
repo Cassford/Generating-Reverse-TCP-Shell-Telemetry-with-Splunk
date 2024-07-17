@@ -21,15 +21,11 @@ The purpose of this project was to generate telemetery in Splunk using Sysmon an
 
 ## Steps
 1.
-<img width="1064" alt="Scenario" src="https://github.com/Cassford/Conducting-a-security-audit/assets/172983465/edbd7a0d-897e-48f0-bd33-767219ba43e3">
 
-*Ref1: Description of security concerns of fictional company.
 
-2. Reviewed the scope and goals of the audit.
-   [Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/16076771/Scope.goals.and.risk.assessment.report.pdf)
+2. 
    
-3. Conduted the audit using the Controls and Compliane checklist.
-[Completed Controls and Compliance Checklist.pdf](https://github.com/user-attachments/files/16086756/Completed.Controls.and.Compliance.Checklist.pdf)
+   
 
 
 
