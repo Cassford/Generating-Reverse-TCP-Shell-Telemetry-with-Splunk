@@ -86,7 +86,7 @@ The purpose of this project was to generate telemetry in Splunk using Sysmon and
 ![Quering the the exploit](https://github.com/user-attachments/assets/efec3e34-c4ad-4368-a615-403f9cb20ea0)
 
 
-14. Event Codes Associated with Exploit.
+14. Event Codes Associated with the Exploit.
 
 ![Sysmon Event codes associted with it](https://github.com/user-attachments/assets/c1e456ed-734d-4bc0-9aba-01a0711d8bf3)
 
