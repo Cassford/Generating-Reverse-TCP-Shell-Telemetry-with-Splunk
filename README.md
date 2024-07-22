@@ -98,5 +98,5 @@ The purpose of this project was to generate telemetry in Splunk using Sysmon and
 
 16. Results from Querying the Process GUID. The Outcome Tells a Clearer Story of the Invasion and Shows Commands The Attacker Run Through the Remote Shell.
 
-![Actual Final](https://github.com/user-attachments/assets/bc9d1aeb-b3c1-45b3-b1b0-e8c6501d054c)
+![Actual Final](https://github.com/user-attachments/assets/710d4d4c-bb31-47c4-8c39-83e89bba0cd2)
 
